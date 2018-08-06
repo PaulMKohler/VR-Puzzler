@@ -1,6 +1,6 @@
 # VR-Puzzler
 
-![Alt text](/Screenshot.jpg?raw=true "Screenshot")
+![Alt text](/PatternDisplay.png?raw=true "Screenshot")
 
 A VR Simon says like game.  User experience was a focus of this project.
 
